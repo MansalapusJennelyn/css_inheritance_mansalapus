@@ -12,7 +12,14 @@
 
 h1 {
   font-family: 'Cinzel', serif;
+  font-weight: 900;
   text-align: center;
   font-size: 96px; 
+  color: #414141;
+  margin: 2em auto 2px;
+  line-height: 0.8;
 }
+
+
+
 
