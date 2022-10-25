@@ -39,5 +39,14 @@ body {
   line-height: 1.6;
  }
  
+ .lead {
+  font-size: 21px;
+  color: #414141;
+ }
+ 
+ a {
+  color: #CA5E10;
+ }
+ 
 
 
