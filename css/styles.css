@@ -20,6 +20,17 @@ h1 {
   line-height: 0.8;
 }
 
+.subtitle {
+  font-family: 'PT Serif', serif;
+  font-weight: 400;
+  text-align: center;
+  font-size: 36px;
+  color: #7D7D7D;
+  width: 70%;
+  margin: 2% auto; 
+  margin-bottom: 7%;
+  line-height: 1.6;
+}
 
 
 
