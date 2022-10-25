@@ -9,3 +9,10 @@
   max-width: 39rem;
   margin: 0 auto;
 }
+
+h1 {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  font-size: 96px; 
+}
+
