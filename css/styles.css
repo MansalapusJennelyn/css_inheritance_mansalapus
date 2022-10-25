@@ -32,5 +32,12 @@ h1 {
   line-height: 1.6;
 }
 
+body {
+  font-size: 18px;
+  font-family: 'PT Serif', serif;
+  color: #414141;
+  line-height: 1.6;
+ }
+ 
 
 
