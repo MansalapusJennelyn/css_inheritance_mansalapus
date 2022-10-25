@@ -15,13 +15,11 @@ h1 {
   font-weight: 900;
   text-align: center;
   font-size: 96px; 
-  color: #414141;
   margin: 2em auto 2px;
   line-height: 0.8;
 }
 
 .subtitle {
-  font-family: 'PT Serif', serif;
   font-weight: 400;
   text-align: center;
   font-size: 36px;
@@ -41,7 +39,6 @@ body {
  
  .lead {
   font-size: 21px;
-  color: #414141;
  }
  
  a {
